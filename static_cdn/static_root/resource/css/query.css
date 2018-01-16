@@ -1,0 +1,278 @@
+
+
+@media (max-width: 359.99px) { 
+    .section-1 {
+        min-height: 1550px;
+
+    }
+     .carousel {
+        min-height: 715px;
+    }
+    .d-block{
+        min-height: 715px;
+    }
+    .section-2 {
+        min-height: 2100px;
+        width: 100%;
+        margin: 0px;
+    }
+    .section-3 {
+        max-height: 580px;
+       padding: 10px;
+    }
+
+    .quote {
+        width: 250px;
+        height: 450px;
+        
+        left: 50%;
+        top: 55%;
+    }
+    .quote h3 {
+        font-size: 100%;
+    }
+    .quote p {
+        font-size: 70%;
+    }
+
+    .service {
+        padding: 20px;
+    }
+    footer {
+        font-size: 60%;
+    }
+    
+        .navigation-ts {
+        margin-top: 10%;
+        margin-left: 5px;
+        height: 150px;
+        width: 90%;
+    }
+    
+    .logo {
+        height: 40px;
+        padding-top: 10px;
+    }
+    .menu-button {
+        font-size: 60%;
+        height: 70%;
+        padding-top: 0px;
+        color:white
+    }
+    .menu-button-active {
+        font-size: 60%;
+        padding-top: 0px;
+        color:white;
+        border-bottom: 3px solid #e67e22;
+        height: 70%;
+    }
+    .language-botton {
+        font-size: 60%;
+        padding-top: 0px;
+        color:white;
+        
+    }
+  
+    .space-col {
+        display: none;
+    }
+    .service {
+        height: 800px;
+        
+    }
+        .address {
+        margin-top: 20px;
+    }
+    .detail-text {
+        padding: 10px;
+        width: 100%
+    }
+    .detail-text-contact {
+        letter-spacing: 0px;
+    }
+    .contact-1 {
+        height: 280px;
+    }
+    .carousel-indicators {
+        top: 95%;
+    }
+    
+     .box {
+       height: 80px;
+         margin-top: 0px;
+    }
+ 
+}
+
+@media (min-width: 360px) and (max-width: 575.99px) { 
+    .section-1 {
+        min-height: 1700px;
+
+    }
+     .carousel {
+        min-height: 715px;
+    }
+    .d-block{
+        min-height: 715px;
+    }
+
+    .section-2 {
+        min-height: 2100px;
+        margin: 0px 2%;
+    }
+    .section-3 {
+        max-height: 800px;
+       padding: 10px;
+    }
+    footer {
+        font-size: 60%;
+    }
+    .quote {
+        left: 50%;
+        top: 55%;
+        width: 350px;
+        
+    }
+    .navigation-ts {
+        margin-top: 10%;
+        margin-left: 5px;
+        height: 150px;
+        width: 90%;
+    }
+    
+    .logo {
+        height: 40px;
+        padding-top: 10px;
+    }
+    .menu-button {
+        font-size: 60%;
+        height: 70%;
+        padding-top: 0px;
+        color:white
+    }
+    .menu-button-active {
+        font-size: 60%;
+        padding-top: 0px;
+        color:white;
+        border-bottom: 3px solid #e67e22;
+        height: 70%;
+    }
+    .language-botton {
+        font-size: 60%;
+        padding-top: 0px;
+        color:white;
+    }
+    .carousel-indicators {
+        top: 95%;
+    }
+ 
+    .box {
+       height: 200px;
+        padding: 10px;
+        margin-top: 0px;
+    }
+
+    .space-col {
+        display: none;
+    }
+    .service {
+        height: 1000px;
+    }
+    .address {
+        margin-top: 20px;
+    }
+    .detail-text {
+        padding: 10px;
+        width: 100%
+    }
+    
+}
+
+
+@media (min-width: 576px) and (max-width: 767.99px){ 
+    .section-1 {
+        height: 1020px;
+    }
+     .carousel {
+        min-height: 715px;
+    }
+    .carousel-indicators {
+        top: 95%;
+    }
+    .d-block{
+        min-height: 715px;
+    }
+    .section-2 {
+        height: 1250px;
+        margin: 0px 2%;
+    }
+   .section-3 {
+        max-height: 800px;
+       padding: 10px;
+    }
+
+    .quote {
+        top: 50%;
+        width: 320px;
+    }
+    
+    .box {
+        margin-top: 0px;
+        height: 180px;
+        width: 180px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.99px) { 
+    section {
+        min-height: 600;
+
+    }
+    .carousel {
+        min-height: 715px;
+    }
+    .d-block{
+        min-height: 715px;
+    }
+    .section-1 {
+        height: 650px;
+    }
+
+    .section-2 {
+        max-height: 700px;
+        margin: 0px 2%;
+    }
+    .section-3 {
+        height: 420px;
+    }
+    .quote {
+        top: 50%;
+        width: 320px;
+    }
+    .service {
+        padding: 0px 40px;
+    }
+}
+
+@media (min-width: 992px){ 
+    section {
+        min-height: 0;
+
+    }
+
+    .section-1 {
+        height: 700px;
+    }
+    .section-2 {
+        height: 700px;
+    }
+    .section-3 {
+        height: 620px;
+    }
+    .quote {
+        top: 50%;
+        width: 320px;
+    }
+    
+}
+
